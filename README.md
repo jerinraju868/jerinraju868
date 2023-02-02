@@ -86,14 +86,20 @@ I am here to show my skills and capabilities with your reputed organization.
 <br>
 <hr>
 
+
+<p align="center">
+    <img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=jerinraju868&show_icons=true&locale=en&layout=compact" alt="jerinraju868" />
+  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=jerinraju868&show_icons=true&locale=en" alt="jerinraju868" />
+</p>
+<br>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerinraju868&show_icons=true&locale=en&layout=compact" alt="jerinraju868" />
+  <h1 align="center">
+    <a align="left" href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jerinraju868&theme=radical" />
+  </a>
+  
+   </h1>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerinraju868&show_icons=true&locale=en" alt="jerinraju868" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerinraju868&" alt="jerinraju868" />
-</p>
+ 
