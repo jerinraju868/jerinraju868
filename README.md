@@ -1,4 +1,4 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&height=100&lines=I'm+a+Full+stack+Developer;Python+%26+Django+Developer;Web+Developer;Learning+Angular+Framework" alt="Typing SVG" /></a></center
+ <center><a href="https://git.io/typing-svg"><img align='center' src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&height=100&lines=I'm+a+Full+stack+Developer;Python+%26+Django+Developer;Web+Developer;Learning+Angular+Framework" alt="Typing SVG" /></a></center>
 <h1 align="center">Hi 👋, I'm Jerin Raju</h1>
 <h3 align="center">A passionate Python & Django Full stack Developer from India</h3>
 <img align="right" width=300 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
