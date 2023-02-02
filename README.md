@@ -1,3 +1,8 @@
+<center>
+<a href="https://git.io/typing-svg" align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Python+Developer;Django+Developer;Web+Developer;Learning+Angular" alt="Typing SVG" align='center'/>
+</a>
+  </center>
 <h1 align="center">Hi 👋, I'm Jerin Raju</h1>
 <h3 align="center">A passionate Python & Django Full stack Developer from India</h3>
 <img align="right" width=300 src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
