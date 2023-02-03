@@ -131,8 +131,6 @@ I am here to show my skills and capabilities with your reputed organization.
     <a align="left" href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=jerinraju868&theme=radical" />
   </a>
-  
    </h1>
 </p>
-
  
