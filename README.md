@@ -115,8 +115,6 @@ I am here to show my skills and capabilities with your reputed organization.
     <img src="https://img.icons8.com/color/1x/visual-studio--v2.png" alt="vscode" width="40" height="40"/> 
   </a> 
   &emsp;&emsp;
-  
-  
 </p>
 <br>
 <hr>
@@ -124,7 +122,7 @@ I am here to show my skills and capabilities with your reputed organization.
 
 <p align="center">
     <img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=jerinraju868&show_icons=true&locale=en&layout=compact" alt="jerinraju868" />
-  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=jerinraju868&show_icons=true&locale=en" alt="jerinraju868" />
+  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=jerinraju868&show_icons=true&locale=en&theme=merko" alt="jerinraju868" />
 </p>
 <br>
 
